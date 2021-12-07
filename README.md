@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thefacelink
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning of Business intelligence
+- 🌱 I’m currently learning of Business Intelligence
 - 💞️ I’m looking to collaborate on improve my network skills
 - 📫 You can reach me via e-mail: efzetraker@gmail.com
 
